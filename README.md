@@ -26,9 +26,17 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 -------------------------------------------
 1: Node.js was not necessary as javascript can be run in the browser
+
+
 2: In dev mode webpack-dev-server runs the frontend code
+
+
 3: The code can also be run in a remote node.js server but that includes setting up additional overhead of managing side effects 
    like axios, node-fetch then async side effects libraries like redux or graphql(if node.js is based on it) 
+
+
 4: Simply yarn install and Yarn start or find the deployed app below
+
+
 5: Deployed App: https://martian-robot.vercel.app
 
