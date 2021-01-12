@@ -148,7 +148,7 @@ export const Home = () => {
                     onClick={() => setRobotInstructions("")}
                     className={styles.insButton}
                   >
-                    Reset
+                    Reset Instructions
                   </Button>
                 </div>
               </div>
