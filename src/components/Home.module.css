@@ -1,0 +1,82 @@
+.container {
+  margin: 20px;
+  padding: 20px;
+}
+
+.grid {
+  margin-bottom: 40px;
+}
+
+.butPanel {
+  margin-top: 20px;
+}
+
+.gridText {
+  display: initial !important;
+}
+
+.leftBtn {
+  margin-right: 10px !important;
+}
+
+.insBtnPanel {
+  margin-top: 20px;
+  display: flex;
+}
+
+.robotPanel {
+  display: flex;
+}
+
+.AddRobot {
+  margin-top: 20px !important;
+  margin-bottom: 20px !important;
+  max-width: 150px;
+}
+
+.robotHeading {
+  margin-bottom: 10px;
+}
+
+.robotText {
+  margin-top: 10px;
+  display: initial;
+  max-width: 200px;
+}
+
+.robotOrientation {
+  margin-top: 10px;
+  max-width: 100px;
+  margin-bottom: 20px;
+}
+
+.insText {
+  display: flex !important;
+}
+
+.insButton {
+  margin-right: 10px !important;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  flex-basis: 50%;
+}
+
+.leftColumn {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  flex-basis: 10%;
+}
+
+
