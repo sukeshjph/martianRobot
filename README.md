@@ -38,5 +38,9 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 4: Simply yarn install and Yarn start or find the deployed app below
 
 
-5: Deployed App: https://martian-robot.vercel.app
+5: I used React Hooks to encapsulate business logic, Typescript Model classes, React component to run the code and using 
+   beautiful Material-UI components
+    
+
+6: Deployed App: https://martian-robot.vercel.app
 
